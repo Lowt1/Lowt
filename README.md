@@ -29,7 +29,7 @@
  
 	<head>
  
-		<title>Exemplo dos elementos apresentados</title>
+		<title>FOTO DE UM PERSONAGEM</title>
  
 	</head>
  
@@ -37,13 +37,13 @@
  
 		<div>
  
-			<h1>Eu sou o título principal desta página</h1>
+			<h1>KAMINA!!!!!</h1>
  
 		<div>
  
 			<h2>Eu represento um título importante dentro deste bloco (div) interno.</h2>
  
-			<img src="imagem-do-bloco.jpg" alt="Sou a imagem deste bloco" width="200" height="150" >
+			<img src="https://vignette.wikia.nocookie.net/characterprofile/images/8/80/Kamina.png/revision/latest cb=20160328173527" alt="Kamina" width="811" height="608" >
  
 			<p>Eu sou o primeiro parágrafo deste bloco. Meu conteúdo consiste em explicar o que o título propõe.</p>
  
